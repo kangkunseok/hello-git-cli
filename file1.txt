@@ -4,3 +4,5 @@ third - my branch
 fourth - my branch
 some hot fix - bugfix
 
+some hot fix
+기능 추가 - feature
